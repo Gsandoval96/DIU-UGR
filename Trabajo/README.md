@@ -1,7 +1,7 @@
 # Cubikate - UX Case Study
-Este trabajo final ​ INDIVIDUAL ​ tiene como objetivo evaluar tu capacidad de aplicación
-de las técnicas y metodologías de diseño centrado en usuario y UX a un caso real: el ​ (re)diseño de la
-web para una empresa de coworking, en este caso [Cubikate](​https://cubikate.es), donde partimos de un diseño ya existente.
+Este trabajo final INDIVIDUAL tiene como objetivo evaluar tu capacidad de aplicación
+de las técnicas y metodologías de diseño centrado en usuario y UX a un caso real: el (re)diseño de la
+web para una empresa de coworking, en este caso [Cubikate](https://cubikate.es), donde partimos de un diseño ya existente.
 
 ### Miembros del equipo
 
@@ -10,7 +10,7 @@ web para una empresa de coworking, en este caso [Cubikate](​https://cubikate.e
 
 ### Descripción del proyecto
 
-Para este caso práctico se ha decidido escoger la web de [Cubikate](​https://cubikate.es) frente a la de [Errant](​https://www.errant.es) debido a que con un vistazo inicial parece que esta cuenta con una página web que ya se basa en los **principios de simplicidad, claridad y consistencia**, suponiendo un reto mayor estudiar este caso y realizar una propuesta para mejorar la misma.
+Para este caso práctico se ha decidido escoger la web de [Cubikate](https://cubikate.es) frente a la de [Errant](https://www.errant.es) debido a que con un vistazo inicial parece que esta cuenta con una página web que ya se basa en los **principios de simplicidad, claridad y consistencia**, suponiendo un reto mayor estudiar este caso y realizar una propuesta para mejorar la misma.
 
 Además, debemos tener en cuenta el tiempo limitado del proyecto, siendo un *sprint* de **12 horas**.
 
