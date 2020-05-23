@@ -12,7 +12,7 @@ web para una empresa de coworking, en este caso [Cubikate](https://cubikate.es),
 
 Para este caso práctico se ha decidido escoger la web de [Cubikate](https://cubikate.es) frente a la de [Errant](https://www.errant.es) debido a que con un vistazo inicial parece que esta cuenta con una página web que ya se basa en los **principios de simplicidad, claridad y consistencia**, suponiendo un reto mayor estudiar este caso y realizar una propuesta para mejorar la misma.
 
-Además, debemos tener en cuenta el tiempo limitado del proyecto, siendo un *sprint* de **12 horas**.
+Además, debemos tener en cuenta el tiempo limitado del proyecto, siendo un *sprint* de **36 horas**.
 
 Con esto en mente, se plantean los siguientes objetivos:
 
@@ -58,7 +58,7 @@ Por otra parte, vamos a ver qué servicios incluyen otras empresas de *coworking
 
 - Tarifas.
 - Cambiar idioma (inglés y español).
-- La Pecera Comunicación (ayuda específica para crear proyectos audiovisuales)
+- La Pecera Comunicación (ayuda específica para crear proyectos audiovisuales).
 
 #### Andacowork
 
@@ -67,7 +67,6 @@ Por otra parte, vamos a ver qué servicios incluyen otras empresas de *coworking
 - Tarifas.
 - Cambiar idioma (inglés y español).
 - Blog.
-
 
 #### Utopicus
 
@@ -104,6 +103,8 @@ El documento completo se encuentra disponible [aquí](https://github.com/Gsandov
 ---
 
 # Diseño UX
+
+## Paso 4: Feedback Capture Grid
 
 
 
