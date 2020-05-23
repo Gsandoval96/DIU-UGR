@@ -93,6 +93,13 @@ Como norma general, todas las páginas analizadas cuentan con una presentación 
 
 # Revisión de usabilidad
 
+Hemos realizado una revisión de usabilidad, obteniendo una **valoración final de 77/100**. Durante el análisis de la misma hemos podido observar que contaba con un diseño basado en los principios de simplicidad, claridad y consistencia, por lo que todo lo relacionado con el diseño ha obtenido una buena puntuación alta. Por otra parte, al ser una página pequeña y sencilla, la navegabilidad es fácil de gestionar con un único menú. Por otra parte, hemos visto que varios de los items que contemplamos en el análisis no se pueden aplicar a esta web, consecuencia de la sencillez de la misma y de contar con un objetivo muy concreto, vender la idea de un servicio, que no el servicio, y poner en contacto a los usuarios con la empresa.
+
+Como conclusión de este apartado podemos decir que la página web tiene pocas funcionalidades y características, pero lo poco que hace lo hace bien.
+
+El documento completo se encuentra disponible [aquí](https://github.com/Gsandoval96/DIU-UGR/blob/master/Trabajo/doc/Usability-review-Cubikate.pdf).
+
+---
 
 
 
