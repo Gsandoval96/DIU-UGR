@@ -26,7 +26,7 @@ Con esto en mente, se plantean los siguientes objetivos:
 
 # Análisis de la competencia
 
-Para analizar la competencia de [Cubikate](https://cubikate.es) tendremos que entender qué es el *coworking* y comparar nuestra web con otras que ofrezcan servicios similares.
+Para analizar la competencia de [Cubikate](https://cubikate.es) tendremos que entender qué es el *coworking* y comparar su web con otras que ofrezcan servicios similares.
 
 ## Paso 1: ¿Qué es el *coworking*?
 
@@ -36,8 +36,65 @@ Las empresas de *coworking* ofrecen espacios de trabajo flexibles, que se adapta
 
 ## Paso 2: Cubikate vs Otras empresas
 
+Vamos a proceder a comparar las funcionalidades y características de la web con la de otras empresas que ofrecen servicios de *coworking*.
+
+### Cubikate
+
+Por una parte, [Cubikate](https://cubikate.es) ofrece:
+
+- Definición del coworking.
+- Servicios.
+- Salas de reuniones.
+- Oficina virtual.
+- Información de contacto (RRSS, localización, correo electrónico, teléfono)
+
+### Otras empresas
+
+Por otra parte, vamos a ver qué servicios incluyen otras empresas de *coworking* con sede en Granada como [Errant](https://www.errant.es) o [Andacowork](https://www.andacowork.com/) y otras con mayor repercusión a nivel nacional como [Utopicus](https://www.utopicus.es/), que cuenta con oficinas en Barcelona y Madrid.
+
+#### Errant
+
+[Errant](https://www.errant.es) añade respecto a nuestra web:
+
+- Tarifas.
+- Cambiar idioma (inglés y español).
+- La Pecera Comunicación (ayuda específica para crear proyectos audiovisuales)
+
+#### Andacowork
+
+[Andacowork](https://www.andacowork.com/) añade respecto a nuestra web:
+
+- Tarifas.
+- Cambiar idioma (inglés y español).
+- Blog.
+
+
+#### Utopicus
+
+[Utopicus](https://www.utopicus.es/) añade respecto a nuestra web:
+
+- Tarifas.
+- Catálogo de espacios.
+- UtopicSchool (cursos para empresas).
+- Cambiar idioma (inglés y español).
+- Agenda con eventos.
+- Blog.
+- Login.
+
+### Análisis
+
+Una vez hemos visto varias empresas con servicios similares tanto a nivel local como estatal, podemos observar que la tónica general de las webs de *coworking* sirve como escaparate para mostrar un servicio y si queremos reservar el servicio ya tendríamos que contactar con la empresa.
+
+Por otra parte, podemos ver que otras páginas de coworking cuentan con ciertas características como **tarifas** concretas para los diversos servicios o opción para utilizar la web en **otros idiomas**, en este caso, en inglés. Además, recalcamos que [Utopicus](https://www.utopicus.es/) cuenta con una opción de **login**, lo cuál puede ser un plus a la hora de crear una sensación de pertenencia a una comunidad.
+
+Como norma general, todas las páginas analizadas cuentan con una presentación limpia y bien ordenada, con más información que funcionalidades.
 
 ---
+
+# Revisión de usabilidad
+
+
+
 
 ---
 
