@@ -56,26 +56,26 @@ Por otra parte, vamos a ver qué servicios incluyen otras empresas de *coworking
 
 [Errant](https://www.errant.es) añade respecto a nuestra web:
 
-- Tarifas.
-- Cambiar idioma (inglés y español).
+- **Tarifas**.
+- Cambiar **idioma** (inglés y español).
 - La Pecera Comunicación (ayuda específica para crear proyectos audiovisuales).
 
 #### Andacowork
 
 [Andacowork](https://www.andacowork.com/) añade respecto a nuestra web:
 
-- Tarifas.
-- Cambiar idioma (inglés y español).
+- **Tarifas**.
+- Cambiar **idioma** (inglés y español).
 - Blog.
 
 #### Utopicus
 
 [Utopicus](https://www.utopicus.es/) añade respecto a nuestra web:
 
-- Tarifas.
+- **Tarifas**.
 - Catálogo de espacios.
 - UtopicSchool (cursos para empresas).
-- Cambiar idioma (inglés y español).
+- Cambiar **idioma** (inglés y español).
 - Agenda con eventos.
 - Blog.
 - Login.
@@ -119,9 +119,9 @@ Con el mapa de experiencia podemos sacar los siguientes puntos fuertes y débile
 
 ## Paso 5: Usability Review
 
-Hemos realizado una revisión de usabilidad, obteniendo una **valoración final de 77/100**. Durante el análisis de la misma hemos podido observar que contaba con un diseño basado en los principios de simplicidad, claridad y consistencia, por lo que todo lo relacionado con el diseño ha obtenido una buena puntuación alta. Por otra parte, al ser una página pequeña y sencilla, la navegabilidad es fácil de gestionar con un único menú. Por otra parte, hemos visto que varios de los items que contemplamos en el análisis no se pueden aplicar a esta web, consecuencia de la sencillez de la misma y de contar con un objetivo muy concreto, vender la idea de un servicio, que no el servicio, y poner en contacto a los usuarios con la empresa.
+Hemos realizado una revisión de usabilidad, obteniendo una **valoración final de 75/100**. Durante el análisis de la misma hemos podido observar que contaba con un diseño basado en los principios de simplicidad, claridad y consistencia, por lo que todo lo relacionado con el diseño ha obtenido una buena puntuación alta. Por otra parte, al ser una página pequeña y sencilla, la navegabilidad es fácil de gestionar con un único menú. Por otra parte, hemos visto que varios de los items que contemplamos en el análisis no se pueden aplicar a esta web, consecuencia de la sencillez de la misma y de contar con un objetivo muy concreto, vender la idea de un servicio, que no el servicio, y poner en contacto a los usuarios con la empresa.
 
-Como conclusión de este apartado podemos decir que la página web tiene pocas funcionalidades y características, pero lo poco que hace lo hace bien.
+Como conclusión de este apartado podemos decir que la página web tiene pocas funcionalidades y características, pero lo poco que hace lo hace bien, de ahí una puntuación tan alta.
 
 El documento completo se encuentra disponible [aquí](https://github.com/Gsandoval96/DIU-UGR/blob/master/Trabajo/doc/Usability-review-Cubikate.pdf).
 
@@ -129,6 +129,8 @@ El documento completo se encuentra disponible [aquí](https://github.com/Gsandov
 ## Paso 6: Feedback Capture Grid
 
 A continuación, para completar y poder analizar la información que hemos obtenido en los pasos anteriores, se ha decidido realizar un *Feedback Capture Grid*, partiendo de la información obtenida en el análisis de la competencia, la revisión de usabilidad y la experiencia obtenida con nuestra persona ficticia.
+
+De este modo agruparemos toda la información que hemos obtenido hasta el momento, facilitando el análisis de los puntos fuertes y débiles de la web y ayudando a encontrar nuevas propuestas e ideas para mejorar la web y el servicio.
 
 
 
