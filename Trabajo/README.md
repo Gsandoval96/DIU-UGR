@@ -132,13 +132,31 @@ A continuación, para completar y poder analizar la información que hemos obten
 
 De este modo agruparemos toda la información que hemos obtenido hasta el momento, facilitando el análisis de los puntos fuertes y débiles de la web y ayudando a encontrar nuevas propuestas e ideas para mejorar la web y el servicio.
 
-
+![feedbackGrid](./img/feedback-grid.png)
 
 ---
 
 # Propuesta de valor
 
+A continuación vamos a realizar una serie de propuestas de mejora que dividiremos en propuestas de mejora UX para la web y otras propuestas de mejora. Además, remarcaremos cuales creemos que son imprescindibles en base al estudio que hemos realizado (se señalan en negrita).
 
+## Paso 7: Mejora UX
+
+### Mejora del diseño de la web
+
+- *De la navegabilidad web:* las etiquetas del menú principal no siempre llevan exactamente a la información que espera el usuario, por lo que sería conveniente modificar el etiquetado.
+
+- *Del apartado de contacto:** a pesar de que la web incluye las RRSS de la empresa, sería conveniente incluir esta información en el apartado de "Contacto".
+
+- ***De las opciones de idiomas:*** observando a la competencia y entrando en un mundo globalizado, con el fin de no perder potenciales clientes no hispano-parlantes, se propone añadir la opción de cambio de idioma a la web, al menos al inglés.
+
+### Mejora de la funcionalidad y características de la la web
+
+- ***Menú con catálogo de espacios y tarifas:*** observando a la competencia y basándonos en el mapa de experiencia del usuario que hemos creado, se observa la falta de un elemento imprescindible, y es información sobre las tarifas que ofrece la empresa.
+
+- *Calendario con disponibilidad*: esta funcionalidad se propone para facilitar la planificación de las empresas que deseen reservar los servicios y los espacios.
+
+- *Menú de login:* esta mejora se propone con el objetivo de crear comunidad, facilitando la sensación de pertenencia a Cubikate, inspirándonos en [Utopicus](https://www.utopicus.es/), una empresa de coworking a nivel nacional.
 
 ---
 
