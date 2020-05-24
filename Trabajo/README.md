@@ -80,7 +80,7 @@ Por otra parte, vamos a ver qué servicios incluyen otras empresas de *coworking
 - Blog.
 - Login.
 
-### Análisis
+### Conclusiones
 
 Una vez hemos visto varias empresas con servicios similares tanto a nivel local como estatal, podemos observar que la tónica general de las webs de *coworking* sirve como escaparate para mostrar un servicio y si queremos reservar el servicio ya tendríamos que contactar con la empresa.
 
@@ -90,9 +90,26 @@ Como norma general, todas las páginas analizadas cuentan con una presentación 
 
 ---
 
-# Revisión de usabilidad
+# Análisis de la web
 
-## Paso 3: Usability Review
+## Paso 3: Persona
+
+En primer lugar vamos a crear una persona ficticia para ver como se desarrollaría el flujo de trabajo de un usuario que visitase la web.
+
+![persona](/img/person.png)
+
+## Paso 4: Mapa de experiencia de usuario
+
+Una vez hemos creado una persona ficticia, es hora de crear un mapa de experiencia con esta, para poder ver el ver el proceso por el que pasa el usuario al usar la web y poder detectar puntos fuertes y puntos débiles de la misma.
+
+![journeyMap](/img/journey-map.png)
+
+Con el mapa de experiencia podemos sacar los siguientes puntos fuertes y débiles:
+
+- Puntos fuertes
+  - 
+
+## Paso 5: Usability Review
 
 Hemos realizado una revisión de usabilidad, obteniendo una **valoración final de 77/100**. Durante el análisis de la misma hemos podido observar que contaba con un diseño basado en los principios de simplicidad, claridad y consistencia, por lo que todo lo relacionado con el diseño ha obtenido una buena puntuación alta. Por otra parte, al ser una página pequeña y sencilla, la navegabilidad es fácil de gestionar con un único menú. Por otra parte, hemos visto que varios de los items que contemplamos en el análisis no se pueden aplicar a esta web, consecuencia de la sencillez de la misma y de contar con un objetivo muy concreto, vender la idea de un servicio, que no el servicio, y poner en contacto a los usuarios con la empresa.
 
@@ -101,10 +118,9 @@ Como conclusión de este apartado podemos decir que la página web tiene pocas f
 El documento completo se encuentra disponible [aquí](https://github.com/Gsandoval96/DIU-UGR/blob/master/Trabajo/doc/Usability-review-Cubikate.pdf).
 
 ---
+## Paso 6: Feedback Capture Grid
 
-# Diseño UX
-
-## Paso 4: Feedback Capture Grid
+A continuación, para completar y poder analizar la información que hemos obtenido en los pasos anteriores, se ha decidido realizar un *Feedback Capture Grid*, partiendo de la información obtenida en el análisis de la competencia, la revisión de usabilidad y la experiencia obtenida con nuestra persona ficticia.
 
 
 
@@ -113,6 +129,26 @@ El documento completo se encuentra disponible [aquí](https://github.com/Gsandov
 # Propuesta de valor
 
 
+
+---
+
+# Bibliografía y herramientas
+
+- **Referencias**
+  - [Wikipedia](https://es.wikipedia.org/wiki/Trabajo_cooperativo)
+  - [Comunidad Coworking](http://www.comunidadcoworking.es/que-es-coworking/)
+
+
+- **Páginas web**
+  - [Cubikate](https://cubikate.es) - página analizada.
+  - [Errant](https://www.errant.es) - competencia.
+  - [Andacowork](https://www.andacowork.com/) - competencia.
+  - [Utopicus](https://www.utopicus.es/) - competencia.
+  - [Coworkingspain](https://coworkingspain.es/espacios/coworking/granada) - listado de empresas de coworking en Granada.
+
+
+- **Herramientas**
+  - [Uxpressia](https://uxpressia.com) - Persona ficticia y mapa de experiencia de usuario.
 
 ---
 
