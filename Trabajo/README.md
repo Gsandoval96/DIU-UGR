@@ -28,13 +28,13 @@ Con esto en mente, se plantean los siguientes objetivos:
 
 Para analizar la competencia de [Cubikate](https://cubikate.es) tendremos que entender qué es el *coworking* y comparar su web con otras que ofrezcan servicios similares.
 
-## Paso 1: ¿Qué es el *coworking*?
+## Fase 1: ¿Qué es el *coworking*?
 
 El *coworking* es una forma de trabajo que permite a profesionales independientes, emprendedores, y pymes de diversos sectores, compartir un espacio de trabajo tanto físico como virtual, para desarrollar tanto proyectos independientes como proyectos conjuntos. Esta filosofía de trabajo tiene como objetivos principales el crear nexos entre profesionales de diversos sectores, reducir costes y fomentar ambientes cooperativos.
 
 Las empresas de *coworking* ofrecen espacios de trabajo flexibles, que se adaptan a las necesidades de la empresa o usuario que las requiera, ofreciendo servicios como conexión wifi, espacios de reunión, espacios de *relax* etc. e incluso en algunos casos se ofrecen servicios de oficina virtual o asesoramiento económico.
 
-## Paso 2: Cubikate vs Otras empresas
+## Fase 2: Cubikate vs Otras empresas
 
 Vamos a proceder a comparar las funcionalidades y características de la web con la de otras empresas que ofrecen servicios de *coworking*.
 
@@ -92,13 +92,13 @@ Como norma general, todas las páginas analizadas cuentan con una presentación 
 
 # Análisis de la web
 
-## Paso 3: Persona
+## Fase 3: Persona
 
 En primer lugar vamos a crear una persona ficticia para ver como se desarrollaría el flujo de trabajo de un usuario que visitase la web.
 
 ![persona](./img/person.png)
 
-## Paso 4: User Journey Map
+## Fase 4: User Journey Map
 
 Una vez hemos creado una persona ficticia, es hora de crear un mapa de experiencia con esta, para poder ver el ver el proceso por el que pasa el usuario al usar la web y poder detectar puntos fuertes y puntos débiles de la misma.
 
@@ -117,7 +117,7 @@ Con el mapa de experiencia podemos sacar los siguientes puntos fuertes y débile
   - Datos de contacto de RRSS poco visibles.
   - Menú principal con un etiquetado algo confuso.
 
-## Paso 5: Usability Review
+## Fase 5: Usability Review
 
 Hemos realizado una revisión de usabilidad, obteniendo una **valoración final de 75/100**. Durante el análisis de la misma hemos podido observar que contaba con un diseño basado en los principios de simplicidad, claridad y consistencia, por lo que todo lo relacionado con el diseño ha obtenido una buena puntuación alta. Por otra parte, al ser una página pequeña y sencilla, la navegabilidad es fácil de gestionar con un único menú. Por otra parte, hemos visto que varios de los items que contemplamos en el análisis no se pueden aplicar a esta web, consecuencia de la sencillez de la misma y de contar con un objetivo muy concreto, vender la idea de un servicio, que no el servicio, y poner en contacto a los usuarios con la empresa.
 
@@ -126,9 +126,9 @@ Como conclusión de este apartado podemos decir que la página web tiene pocas f
 El documento completo se encuentra disponible [aquí](https://github.com/Gsandoval96/DIU-UGR/blob/master/Trabajo/doc/Usability-review-Cubikate.pdf).
 
 ---
-## Paso 6: Feedback Capture Grid
+## Fase 6: Feedback Capture Grid
 
-A continuación, para completar y poder analizar la información que hemos obtenido en los pasos anteriores, se ha decidido realizar un *Feedback Capture Grid*, partiendo de la información obtenida en el análisis de la competencia, la revisión de usabilidad y la experiencia obtenida con nuestra persona ficticia.
+A continuación, para completar y poder analizar la información que hemos obtenido en los Fases anteriores, se ha decidido realizar un *Feedback Capture Grid*, partiendo de la información obtenida en el análisis de la competencia, la revisión de usabilidad y la experiencia obtenida con nuestra persona ficticia.
 
 De este modo agruparemos toda la información que hemos obtenido hasta el momento, facilitando el análisis de los puntos fuertes y débiles de la web y ayudando a encontrar nuevas propuestas e ideas para mejorar la web y el servicio.
 
@@ -138,25 +138,37 @@ De este modo agruparemos toda la información que hemos obtenido hasta el moment
 
 # Propuesta de valor
 
-A continuación vamos a realizar una serie de propuestas de mejora que dividiremos en propuestas de mejora UX para la web y otras propuestas de mejora. Además, remarcaremos cuales creemos que son imprescindibles en base al estudio que hemos realizado (se señalan en negrita).
+A continuación vamos a realizar una serie de propuestas de mejora que dividiremos en propuestas de mejora UX para la web y otras propuestas de mejora.
 
-## Paso 7: Mejora UX
+## Fase 7: Mejora UX
 
 ### Mejora del diseño de la web
 
-- *De la navegabilidad web:* las etiquetas del menú principal no siempre llevan exactamente a la información que espera el usuario, por lo que sería conveniente modificar el etiquetado.
+- **Opciones de idiomas:** observando a la competencia y entrando en un mundo globalizado, con el fin de no perder potenciales clientes no hispano-parlantes, se propone añadir la opción de cambio de idioma a la web, al menos al inglés.
 
-- *Del apartado de contacto:** a pesar de que la web incluye las RRSS de la empresa, sería conveniente incluir esta información en el apartado de "Contacto".
+- **Navegabilidad web:** las etiquetas del menú principal no siempre llevan exactamente a la información que espera el usuario, por lo que sería conveniente modificar el etiquetado. Además, la etiqueta resaltada que indica el apartado de la web en la que nos encontramos no se visualiza correctamente.
 
-- ***De las opciones de idiomas:*** observando a la competencia y entrando en un mundo globalizado, con el fin de no perder potenciales clientes no hispano-parlantes, se propone añadir la opción de cambio de idioma a la web, al menos al inglés.
+- **Contacto:** a pesar de que la web incluye las RRSS de la empresa, sería conveniente incluir esta información en el apartado de "Contacto", además de situarla en una barra inferior fija que sea de fácil acceso.
 
 ### Mejora de la funcionalidad y características de la la web
 
-- ***Menú con catálogo de espacios y tarifas:*** observando a la competencia y basándonos en el mapa de experiencia del usuario que hemos creado, se observa la falta de un elemento imprescindible, y es información sobre las tarifas que ofrece la empresa.
+- **Menú con catálogo de espacios y tarifas:** observando a la competencia y basándonos en el mapa de experiencia del usuario que hemos creado, se observa la falta de un elemento imprescindible, y es información sobre las tarifas que ofrece la empresa.
 
-- *Calendario con disponibilidad*: esta funcionalidad se propone para facilitar la planificación de las empresas que deseen reservar los servicios y los espacios.
+- **Calendario de disponibilidad:** esta funcionalidad se propone para facilitar la planificación de las empresas que deseen reservar los servicios y los espacios.
 
-- *Menú de login:* esta mejora se propone con el objetivo de crear comunidad, facilitando la sensación de pertenencia a Cubikate, inspirándonos en [Utopicus](https://www.utopicus.es/), una empresa de coworking a nivel nacional.
+- **Menú de login:** esta mejora se propone con el objetivo de crear comunidad, facilitando la sensación de pertenencia a Cubikate, inspirándonos en [Utopicus](https://www.utopicus.es/), una empresa de coworking a nivel nacional. Esta opción podría permitir a los usuarios identificados acceder a información extra como el calendario de disponibilidad de espacios.
+
+- **Pagos integrados:** esta mejora es algo que no integran por norma general otras webs del mismo sector pero añadir esta opción puede mejorar la experiencia de los usuarios que realicen reservas puntuales de espacios. Analizándolo en profundidad, entendemos que esta opción no se contemple habitualmente por problemas legales asociados al arrendamiento de un espacio, por lo que habría que realizar un estudio de su viabilidad antes de implementarla.
+
+### Otras mejoras
+
+Además de las propuestas de mejora centradas en la web de [Cubikate](https://cubikate.es), se traen otras propuestas que puede mejorar la experiencia del usuario y la facilidad de captar potenciales usuarios:
+
+- **Posicionamiento web:** como hemos podido comprobar, [Cubikate](https://cubikate.es) se encuentra atrás respecto a otras webs de la competencia en cuanto a posicionamiento web en navegadores como Google. Por ello se recomienda revisar este apartado, empezando por la mejora de los anuncios en páginas de búsqueda de empresas de coworking a nivel nacional como puede ser [Coworkingspain](https://coworkingspain.es/espacios/coworking/granada).
+
+- **Desarrollo de una aplicación móvil:** en el caso de ampliar las funcionalidades de la web, se propone comenzar el desarrollo de una aplicación móvil que facilite el uso de los servicios ofertados a los usuarios registrados.
+
+- **Estudio de accesibilidad web:** realizando un test rápido de accesibilidad web con una herramienta como [Wave](https://wave.webaim.org/) podemos comprobar que la web no cuenta con problemas de accesibilidad en aspectos como el contraste, pero que cuenta con múltiple errores y avisos para ser una página tan pequeña. Por eso se recomienda realizar un estudio en mayor profundidad para localizar y solucionar estos errores.
 
 ---
 
@@ -169,15 +181,16 @@ A continuación vamos a realizar una serie de propuestas de mejora que dividirem
 
 - **Páginas web**
   - [Cubikate](https://cubikate.es) - página analizada.
-  - [Errant](https://www.errant.es) - competencia.
-  - [Andacowork](https://www.andacowork.com/) - competencia.
-  - [Utopicus](https://www.utopicus.es/) - competencia.
-  - [Coworkingspain](https://coworkingspain.es/espacios/coworking/granada) - listado de empresas de coworking en Granada.
+  - [Errant](https://www.errant.es) - página de la competencia.
+  - [Andacowork](https://www.andacowork.com/) - página de la competencia.
+  - [Utopicus](https://www.utopicus.es/) - página de coworking a nivel nacional.
+  - [Coworkingspain](https://coworkingspain.es/espacios/coworking/granada) - página de búsqueda de empresas de coworking en España/Granada.
 
 
 - **Herramientas**
   - [Uxforthemasses](http://www.uxforthemasses.com/wp-content/uploads/2011/02/Usability-review-template.xls) - Plantilla para la Usability Review.						
-  - [Uxpressia](https://uxpressia.com) - Persona ficticia y mapa de experiencia de usuario.
+  - [Uxpressia](https://uxpressia.com) - Creación de persona ficticia y mapa de experiencia de usuario.
+  - [Wave](https://wave.webaim.org/) - Estudio de accesibilidad web.
 
 ---
 
