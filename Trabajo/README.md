@@ -96,18 +96,22 @@ Como norma general, todas las páginas analizadas cuentan con una presentación 
 
 En primer lugar vamos a crear una persona ficticia para ver como se desarrollaría el flujo de trabajo de un usuario que visitase la web.
 
-![persona](/img/person.png)
+Disponible para visualizar y descargar la imagen por separado [aquí](https://github.com/Gsandoval96/DIU-UGR/blob/master/Trabajo/img/person.png).
+
+![persona](./img/person.png)
 
 ## Paso 4: Mapa de experiencia de usuario
 
 Una vez hemos creado una persona ficticia, es hora de crear un mapa de experiencia con esta, para poder ver el ver el proceso por el que pasa el usuario al usar la web y poder detectar puntos fuertes y puntos débiles de la misma.
 
-![journeyMap](/img/journey-map.png)
+Disponible para visualizar y descargar la imagen por separado [aquí](https://github.com/Gsandoval96/DIU-UGR/blob/master/Trabajo/img/journey-map.png).
+
+![journeyMap](./img/journey-map.png)
 
 Con el mapa de experiencia podemos sacar los siguientes puntos fuertes y débiles:
 
-- Puntos fuertes
-  - 
+- **Puntos fuertes**
+  -
 
 ## Paso 5: Usability Review
 
