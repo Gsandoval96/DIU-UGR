@@ -172,6 +172,14 @@ Además de las propuestas de mejora centradas en la web de [Cubikate](https://cu
 
 ---
 
+# Conclusiones
+
+Con este proyecto se ha intentado hacer un análisis en profundidad teniendo en cuenta el tiempo limitado del que disponíamos. Se ha planteado como un primer enfoque de un UX Case Study, centrándose principalmente en el análisis de la experiencia del usuario al usar la web, localizando los fallos más visibles de la misma y buscando propuesta de valor de calidad y muchas de ellas, fáciles de implementar.
+
+Una vez más podemos ver la importancia de un buen diseño que sea atractivo, sencillo y consistente, para que facilite la navegación al usuario. También hemos podido observar la importancia de un contenido web claro, conciso y ordenado, con la información y las funcionalidades justas y necesarias.
+
+---
+
 # Bibliografía y herramientas
 
 - **Referencias**
