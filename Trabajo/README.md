@@ -98,7 +98,7 @@ En primer lugar vamos a crear una persona ficticia para ver como se desarrollar�
 
 ![persona](./img/person.png)
 
-## Paso 4: Mapa de experiencia de usuario
+## Paso 4: User Journey Map
 
 Una vez hemos creado una persona ficticia, es hora de crear un mapa de experiencia con esta, para poder ver el ver el proceso por el que pasa el usuario al usar la web y poder detectar puntos fuertes y puntos débiles de la misma.
 
@@ -156,6 +156,7 @@ A continuación, para completar y poder analizar la información que hemos obten
 
 
 - **Herramientas**
+  - [Uxforthemasses](http://www.uxforthemasses.com/wp-content/uploads/2011/02/Usability-review-template.xls) - Plantilla para la Usability Review.						
   - [Uxpressia](https://uxpressia.com) - Persona ficticia y mapa de experiencia de usuario.
 
 ---
